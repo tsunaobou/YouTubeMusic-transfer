@@ -1,7 +1,7 @@
-# YTMusicTransfer
+# YouTubeMusic-Transfer
 
-Python script for Automatic song transfering to YouTube Music.
-YouTube Musicへの楽曲のアップロードを自動化できます。
+Python script for Automatic song transfering to YouTube Music.  
+YouTube Musicへの楽曲のアップロードを自動化できます。  
 
 ## 使い方
 
@@ -19,5 +19,5 @@ pip install ytmusicapi tqdm
 
 ## 注意事項
 
-`ytmusicapi`は**非公式**APIです。
+`ytmusicapi`は**非公式**APIです。  
 使用によって起こった不具合に関しては一切の責任を負いかねますので、自己責任で使ってください。
